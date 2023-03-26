@@ -1,0 +1,44 @@
+/* Global */
+
+body {
+    margin: 0;
+
+}
+
+.title {
+    background: #9c88ff;
+    color: white;
+    font-family: 'Signika', sans-serif;
+    font-size: 22px;
+    padding-top: 50px;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.title i {
+    font-size: 30px;
+    color: #353b48;
+}
+
+.author {
+    font-family: 'Signika', sans-serif;
+    margin: 0;
+    padding-bottom: 30px;
+}
+
+.poem {
+    background: #7f8fa6;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.poem i {
+    margin-top: 30px;
+    font-size: 30px;
+    color: #353b48;
+}
