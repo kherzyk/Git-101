@@ -42,3 +42,8 @@ body {
     font-size: 30px;
     color: #353b48;
 }
+
+.footnote {
+    font-size: 14px;
+    font-style: italic;
+}
